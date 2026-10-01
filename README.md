@@ -2,7 +2,7 @@
 
 # Real Estate — Leads and Regions Dashboard
 
-![Real Estate Leads and Regions Dashboard](images/real-estate-dashboard.png)
+![Real Estate Leads and Regions Dashboard](RealEstateDemo.png)
 
 ## The Business
 
